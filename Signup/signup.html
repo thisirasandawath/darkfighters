@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+	<title></title>
+	<link type = "text/css" href = "Signup.css" rel = "stylesheet">
+	<style>
+    .button
+    {
+    font-weight:bold;
+    height: 45px;
+    width: 280px;
+    background-color:#CF4FCF;
+    font-size:16px;
+    }
+    </style>
+    <script type = "text/javascript" src = "signup.js"></script>
+</head>
+<body background="Icon/Back1.jpg">
+
+<div>
+	<table width="100%">
+    	<tr>
+    	    <td width = "2%"> &nbsp;</td>
+        	<td width = "10%"> <img src = "travel Logo.png" alt = "Logo" width = "90%"> </td>
+            <td> &nbsp;</td>
+            <td width = "7%">
+                <button class = "homebtn" onClick="window.location='https://darkfighters.greenline.lk/';"> Home</button>
+            </td>
+            <td width = "2%"> &nbsp;</td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table width="100%">
+        <tr>
+        	<td width = "7%"> &nbsp; </td>
+            <td> &nbsp;</td>
+            <td width = "50%">
+                <div class="sadow">
+                <table class="roundedCorners"  style="background-color:#EEEEEE" width="100%">
+                    <tr><td colspan="2" align="center"> <h2>SIGN UP</h2></td></tr>
+                    <tr>
+                        <td width="50%">
+                            <img src = "Icon/signG.png" alt = "Logo" width = "100%">
+                        </td>
+                        <td width="50%">
+                            <form  method = "POST" name="signupform" onSubmit = "return signupvalidate(this);" action = "signup.php" >
+                            <table width="100%">
+                                <tr><td style="font-size: 18px ; font-family:arial">First Name</td>  <td><input maxlength="32" name="fname" placeholder="Enter First Name" size="35" type="text" class="text-box"></td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">Last Name</td>  <td><input maxlength="32" name="lname" placeholder="Enter Last Name" size="35" type="text" class="text-box"></td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">Username</td>  <td><input maxlength="32" name="uname" placeholder="Enter Username" size="35" type="text" class="text-box"></td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">E-mail</td>  <td><input maxlength="50" name="email" placeholder="Enter Email Address" size="35" type="text" class="text-box"></td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">Mobile</td>  <td><input maxlength="10" name="mobile" placeholder="Enter Mobile Number" size="35" type="text" class="text-box"></td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">Gender</td>  <td style="font-size: 18px"><input type = "radio" name = "gen" value = "Male">Male &nbsp; &nbsp;   <input type = "radio" name = "gen" value = "Female"> Female</td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">Birthday</td>  <td><input type = "date" name = "bday"></td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">Password</td>  <td><input maxlength="16" name="pwd" placeholder="Enter Password" size="35" type="password" class="text-box"></td></tr>
+                                <tr><td style="font-size: 18px ; font-family:arial">Comform</td>  <td><input maxlength="16" name="cpwd" placeholder="Re-Enter Password" size="35" type="password" class="text-box"></td></tr>
+                                <tr><td> <input name="signbut" type="submit" value="   Create Account   "   class = "crebut"> </td> <td style="font-size: 18px ; font-family:arial">&nbsp;<a href="https://darkfighters.greenline.lk/Login/login.html">I have a account</a> </td> </tr>
+                                <tr><td> &nbsp; </td></tr>
+                            </table>
+                            </form>
+                        </td>
+                    </tr>
+                </table>
+                </div>
+            </td>
+            <td> &nbsp;</td>
+            <td width = "7%">&nbsp; </td>
+        </tr>
+    </table>
+</div>
+
+<br><br><br><br><br>
+
+
+<div align="center" style="color:#ffffff">copyright @ <a href="https://www.linkedin.com/company/greenlineservice" link-color="red">Green line-IT</a> 2020</div>
+
+</body>
+</html>

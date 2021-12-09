@@ -1,0 +1,114 @@
+[03-Aug-2020 19:55:18 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 32
+[03-Aug-2020 19:59:04 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 32
+[04-Aug-2020 23:32:44 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:34:26 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:37:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:37:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:39:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:39:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:39:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:42:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:46:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 22
+[04-Aug-2020 23:46:44 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 24
+[05-Aug-2020 07:50:55 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 24
+[06-Aug-2020 15:05:02 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 24
+[07-Aug-2020 17:19:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[07-Aug-2020 17:21:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[07-Aug-2020 17:26:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[07-Aug-2020 17:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[07-Aug-2020 17:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[07-Aug-2020 17:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[07-Aug-2020 18:12:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[08-Aug-2020 15:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:09:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:15:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 04:43:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 05:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 10:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 18:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 18:23:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 18:24:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 20
+[09-Aug-2020 18:29:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21
+[09-Aug-2020 18:48:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21
+[09-Aug-2020 18:52:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21
+[09-Aug-2020 18:53:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21
+[09-Aug-2020 19:35:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21
+[09-Aug-2020 19:38:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21
+[09-Aug-2020 19:48:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21
+[09-Aug-2020 21:59:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Signup/signup.php on line 21

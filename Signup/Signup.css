@@ -1,0 +1,77 @@
+
+/* Home Button */
+.homebtn
+{
+  background-color: #4CAF50;
+  min-width: 150px;
+  min-height: 50px;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.homebtn:hover
+{
+  background-color: #008CBA;
+  color: white;
+}
+
+
+/* Table rounded Corners */
+table.roundedCorners { 
+  /* border: 1px solid DarkOrange; */
+  border-radius: 13px; 
+  border-spacing: 0;
+  }
+table.roundedCorners td, 
+table.roundedCorners th { 
+  /* border-bottom: 1px solid DarkOrange; */
+  padding: 10px; 
+  }
+table.roundedCorners tr:last-child > td {
+  border-bottom: none;
+}
+
+
+
+/* Table Text box */
+.text-box
+{
+    height: 22px;
+    width: 220px;
+    font-size: 16px;
+}
+
+/* Table Button Create Account */
+.crebut
+{
+  background-color: #653ee6;
+  min-width: 120px;
+  min-height: 35px;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.crebut:hover
+{
+  background-color: #240e6b;
+  color: white;
+}
+
+
+/* Table Sadow Create Account */
+.sadow
+{
+    width: 100%;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+/* copyright color */
+a {
+  color: #303030;
+}
