@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type="text/css" href="contact.css" rel="stylesheet" />
+        <meta charset="utf-8" />
+        <title>WEB project Contact</title>
+        <style>
+            input[type="text"],
+            select,
+            textarea,
+            input {
+                width: 100%;
+                padding: 12px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+                margin-top: 6px;
+                margin-bottom: 16px;
+                resize: vertical;
+            }
+
+            input[type="submit"] {
+                background-color: #4caf50;
+                color: white;
+                padding: 12px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            input[type="submit"]:hover {
+                background-color: #45a049;
+            }
+        </style>
+        <script type = "text/javascript" src = "contact.js"></script>
+    </head>
+
+    <body>
+<div style="background-color:#fffbc9">
+	<table width="100%">
+    	<tr>
+        	<td width = "10%"> <img src = "travel Logo.png" alt = "Logo" width = "100%"> </td>
+            <td> &nbsp;</td>
+            <td> &nbsp;</td>
+            <td width = "7%">
+                <button class = "homebtn" onClick="window.location='https://darkfighters.greenline.lk';"> Home</button>
+            </td>
+            <td width = "7%">
+                <div class = "title">
+                    <button class = "homebtn"> Services</button>
+                        <div class = "btn-content">
+                            <a href = "https://darkfighters.greenline.lk/Service/service1.html"> Sevice 1</a>
+                            <a href = "https://darkfighters.greenline.lk/Service/service2.html"> Service 2</a>
+                        </div>
+                </div>
+            </td>
+            <td width = "7%">
+                <div class = "title">
+                    <button class = "homebtn"> Products</button>
+                        <div class = "btn-content">
+                            <a href = "#"> Product 1</a>
+                            <a href = "#"> Product 2</a>
+                        </div>
+                </div>
+            </td>
+            <td width = "7%">
+                <button class = "homebtn" onClick="window.location='https://darkfighters.greenline.lk/Contact/contact.html';"> Contact Us</button>
+            </td>
+            <td width = "7%">
+                <button class = "homebtn" onClick="window.location='https://darkfighters.greenline.lk/About/about.html';"> About</button>
+            </td>
+            <td width = "7%"> 
+                <div class = "title">
+                    <button class = "homebtn"> My Account</button>
+                        <div class = "btn-content">
+                            <a href = "#"> Custamize </a>
+                            <a href = "#"> Log Out </a>
+                        </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div style="background-color:#EEEEEE">
+        <table width="100%">
+            <tr>
+                <td rowspan="4" width="7%">&nbsp;</td>
+                <td colspan="3" width="43%"> <img width="90%" src="Icon/ContactA.png" alt = "Image"> </td>
+                <td colspan="3" width="43%" style="padding: 2.2em;">
+                    <h1 style="font-size: 60px; margin-bottom: 0.2em;">Contact Us</h1>
+                    <p style="font-size: 28px;">We dedicate our experiance to travel trend – and create a space for the relaxed moments</p>
+                    <form  name = "contact" method = "POST" onSubmit = "return contactvalidate(this);" action = "contact.php">
+                        <label for="name">Full Name</label>
+                        <input type="text" id="name" name="name" placeholder="Your Name.." maxlength="60">
+
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email" placeholder="Email address.." maxlength="50">
+
+                        <label for="phone">Phone Number</label>
+                        <input type="text" id="phone" name="phone" placeholder="Phone number.." maxlength="10">
+
+                        <label for="message">Your message here</label>
+                        <textarea id="message" name="message" placeholder="Type your message here.." style="height: 100px;" maxlength="300"></textarea>
+
+                        <input type="submit" value="Submit">
+                    </form>
+                </td>
+                <td rowspan="4" width="7%">&nbsp;</td>
+            </tr>
+        </table>
+</div>       
+
+    
+<div style="background-color:#14b8de">
+    <table width="100%">
+    	<tr>
+        	<td width = "7%"> &nbsp; </td>
+        	<td width = "10%"> &nbsp; </td>
+        	<td width = "2%"> <img src = "Icon/Phone.png" alt = "Logo" width = "35px"> </td>
+            <td> <h2 style="font-family: Arial"> &nbsp; 075 5399 599</h2> </td>
+            <td width = "2%"> <img src = "Icon/Email.png" alt = "Logo" width = "35px"> </td>
+            <td> <h2 style="font-family: Arial"> &nbsp; info@greenline.lk</h2> </td>
+            <td width = "2%"> <img src = "Icon/Location.png" alt = "Logo" width = "35px"> </td>
+            <td> <h2 style="font-family: Arial"> &nbsp; Sri lanka</h2> </td>
+            <td width = "7%"> &nbsp; </td>
+            <td width = "7%"> &nbsp; </td>
+        </tr>
+    </table>
+</div>
+
+<div style="background-color:#cce655">
+    <table width="100%">
+    	<tr>
+        	<td width = "7%"> &nbsp; </td>
+            <td width = "21%">
+                <h3>About us</h3>
+                <ul>
+                    <li>Misson and Vision</li>
+                    <li>Who are we</li>
+                </ul>
+            </td>
+            <td width = "22%">
+                <h3>Openning Hours</h3>
+                <ul>
+                    <li>Weekdays - 8.00am to 5.00pm</li>
+                    <li>Weekend - 9.00am to 3.00pm</li>
+                </ul>
+            </td>
+            <td width = "21%">
+                <h3>Contact information</h3>
+                <ul>
+                    <li>Get Service Information </li>
+                    <li>Contact our agent</li>
+                </ul>
+            </td>
+            <td width = "21%">
+                <h3>Subscribe</h3>
+                <ul>
+                    <li>Online Travel Plans</li>
+                    <li>Our Leatest News</li>
+                </ul>
+            </td>
+            <td width = "7%"> &nbsp; </td>
+            
+        </tr>
+    </table>
+    <div> &nbsp; </div>
+</div>
+    
+<div style="background-color:#202020">
+
+        <div> &nbsp; </div>
+        <div  style="color:#ffffff" width = "100%"><center>Copyright © Green Line Service Group (PVT) ltd. 2020 | Design & Code by Darkfighters Team</center></div>
+        <div> &nbsp; </div>
+
+</div>
+</body>
+</html>
