@@ -1,0 +1,268 @@
+[04-Aug-2020 21:47:49 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 25
+[04-Aug-2020 21:47:58 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 25
+[04-Aug-2020 21:54:06 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 27
+[04-Aug-2020 21:54:55 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 27
+[04-Aug-2020 22:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:34:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:34:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:35:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:35:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:35:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 22:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[04-Aug-2020 23:00:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/admin.php on line 16
+[08-Aug-2020 19:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php on line 17
+[08-Aug-2020 19:50:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 17
+[08-Aug-2020 19:50:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[08-Aug-2020 19:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php on line 17
+[08-Aug-2020 19:58:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 17
+[08-Aug-2020 19:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewmails.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewmails.php on line 17
+[08-Aug-2020 19:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[08-Aug-2020 21:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[08-Aug-2020 21:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php on line 17
+[08-Aug-2020 21:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 17
+[08-Aug-2020 21:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 17
+[09-Aug-2020 03:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 05:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 05:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 05:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 05:56:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 20
+[09-Aug-2020 06:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:10:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php on line 17
+[09-Aug-2020 06:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewmails.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewmails.php on line 17
+[09-Aug-2020 06:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php on line 17
+[09-Aug-2020 06:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 17
+[09-Aug-2020 06:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewmails.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewmails.php on line 17
+[09-Aug-2020 06:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 19
+[09-Aug-2020 06:21:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:24:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 06:25:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 06:31:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php on line 17
+[09-Aug-2020 06:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 17
+[09-Aug-2020 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 19
+[09-Aug-2020 06:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/viewusers.php on line 17
+[09-Aug-2020 06:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 06:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 19
+[09-Aug-2020 06:59:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 19
+[09-Aug-2020 07:00:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 07:03:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 19
+[09-Aug-2020 07:13:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 19
+[09-Aug-2020 07:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 07:22:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 31
+[09-Aug-2020 07:23:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 31
+[09-Aug-2020 07:25:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/viewcomments.php on line 31
+[09-Aug-2020 17:36:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 17:38:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 18:59:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 18:59:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:01:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:01:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:03:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:06:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:08:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:08:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:21:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:21:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:27:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/deleteuser.php on line 19
+[09-Aug-2020 19:31:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:31:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:32:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:34:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:35:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:36:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:39:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 19:48:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20
+[09-Aug-2020 22:00:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Admin/createadmin.php on line 20

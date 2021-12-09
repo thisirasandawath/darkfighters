@@ -1,0 +1,153 @@
+<!doctype html>
+<html>
+<head>
+    <link type = "text/css" href = "admin.css" rel = "stylesheet">
+<meta charset="utf-8">
+<title>WEB project home</title>
+ <script type = "text/javascript" src = "admin.js"></script>
+</head>
+
+<body background="images/Image4.jpg">
+    
+
+<div>
+	<table width="100%">
+    	<tr>
+    	    <td width="5%">&nbsp;</td>
+        	<td width = "10%"> <input type = "SUBMIT" class = "homebtn" value = "Log out" onClick="window.location='https://darkfighters.greenline.lk/Login/login.html';"> </td>
+            <td> <div  style="color:#ffffff" width = "100%"><center><h1>Main Admin Panel</h1></center></div></td>
+            <td width = "10%">
+                <img src = "travel Logo.png" alt = "Logo" width = "100%">
+            </td>
+            <td width="5%">&nbsp;</td>
+        </tr>
+    </table>
+</div>
+
+
+<!-- ////////////////////////////////////// Heder   here ///////////////////////////////////////////  -->
+
+
+<div style="color:#ffffff">
+    
+        <table width="100%">
+            <tr>
+                <td width="7%">&nbsp;</td>
+                <td align="center"> <p style="font-size: 24px ; font-family:arial"> <b>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - VIEW DATABASES - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</b></p></td>
+                <td width="7%">&nbsp;</td>
+            </tr>
+        </table>
+        
+        <form metod = "POST" name = "dbuform" action = "https://darkfighters.greenline.lk/Admin/viewusers.php">
+        <table>
+            <tr>
+                <td width="7%">&nbsp;</td>
+                <td width="86%"> <input type = "SUBMIT" name = "viewusers" value = "VIEW USERS" class = "underbtn" style="font-size: 20px ; font-family:arial"> </td>
+                <td width="7%">&nbsp;</td>
+            </tr>
+        </table>
+        </form>
+        <br>
+        <form metod = "POST" name = "dbcform" action = "https://darkfighters.greenline.lk/Admin/viewcomments.php">
+        <table>
+            <tr>
+                <td width="7%">&nbsp;</td>
+                <td width="86%"> <input type = "SUBMIT" name = "viewcomments" value = "VIEW COMMENTS" class = "underbtn" style="font-size: 20px ; font-family:arial"> </td>
+                <td width="7%">&nbsp;</td>
+            </tr>
+        </table>
+        </form>
+        <br>
+        <form metod = "POST" name = "dbsform" action = "https://darkfighters.greenline.lk/Admin/viewmails.php">
+        <table>
+            <tr>
+                <td width="7%">&nbsp;</td>
+                <td width="86%"> <input type = "SUBMIT" name = "viewmails" value = "VIEW SUBSCRIPTIONS" class = "underbtn" style="font-size: 20px ; font-family:arial"> </td>
+                <td width="7%">&nbsp;</td>
+            </tr>
+        </table>
+        </form>     
+        
+</div>
+
+<br>
+
+<div style="color:#ffffff">
+    <form metod = "POST" name = "deluserform" action = "https://darkfighters.greenline.lk/Admin/deleteuser.php" onSubmit = "return deleteuser(this);">
+       <table width="100%">
+           <tr>
+               <td width="7%">&nbsp;</td>
+               <td colspan = "4" align="center"> <p style="font-size: 24px ; font-family:arial"> <b>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - DELETE USER - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</b> </p> </td>
+               <td width="7%">&nbsp;</td>
+           </tr>
+            <tr>
+                <td width="7%">&nbsp;</td>
+                <td width="10%">&nbsp;</td>
+                <td style="font-size: 24px ; font-family:arial"> UserID : </td>
+                <td> <input type = "text" name = "userid"  class="text-box" maxlength="32" placeholder="Enter ID" size="45"> </td>
+                <td> <input type = "SUBMIT" name = "deluser" value = "DELETE USER" class = "homebtn"> </td>
+                <td width="7%">&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+<br>
+
+<div style="color:#ffffff">
+    <form metod = "POST" name = "cadminform" action = "https://darkfighters.greenline.lk/Admin/createadmin.php" onSubmit = "return createadmin(this);">
+        <table width="100%">
+           <tr>
+               <td width="7%">&nbsp;</td>
+               <td colspan = "4" align="center"> <p style="font-size: 24px ; font-family:arial"><b>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - CREATE ADMINS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</b></p></td>
+               <td width="7%">&nbsp;</td>
+           </tr>
+            <tr>
+                <td width="7%">&nbsp;</td>
+                <td width="10%">&nbsp;</td>
+                <td style="font-size: 24px ; font-family:arial"> UserID : </td>
+                <td> <input type = "text" name = "uid" class="text-box" maxlength="32" placeholder="Enter ID" size="45" > </td>
+                <td> <input type = "SUBMIT" name = "cadmin" value = "CREATE ADMIN" class = "homebtn"> </td>
+                <td width="7%">&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+
+
+
+
+<!-- ////////////////////////////////////// Footer   here ///////////////////////////////////////////  -->
+
+<br>
+
+
+
+    
+<div style="background-color:#14b8de">
+    <table width="100%">
+    	<tr>
+        	<td width = "7%"> &nbsp; </td>
+        	<td width = "10%"> &nbsp; </td>
+        	<td width = "2%"> <img src = "Icon/Phone.png" alt = "Logo" width = "35px"> </td>
+            <td> <h2 style="font-family: Arial"> &nbsp; 075 5399 599</h2> </td>
+            <td width = "2%"> <img src = "Icon/Email.png" alt = "Logo" width = "35px"> </td>
+            <td> <h2 style="font-family: Arial"> &nbsp; info@greenline.lk</h2> </td>
+            <td width = "2%"> <img src = "Icon/Location.png" alt = "Logo" width = "35px"> </td>
+            <td> <h2 style="font-family: Arial"> &nbsp; Sri lanka</h2> </td>
+            <td width = "7%"> &nbsp; </td>
+            <td width = "7%"> &nbsp; </td>
+        </tr>
+    </table>
+</div>
+
+<div style="background-color:#202020">
+
+        <div> &nbsp; </div>
+        <div  style="color:#ffffff" width = "100%"><center>Copyright © Green Line Service Group (PVT) ltd. 2020 | Design & Code by Darkfighters Team</center></div>
+        <div> &nbsp; </div>
+
+</div>
+</body>
+</html>
