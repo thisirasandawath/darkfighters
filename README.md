@@ -1,4 +1,4 @@
-# NSBM Campus Web Product - Darkfighter
+# NSBM Campus Web Assiment Product - Darkfighter
 INTRODUCTION Travel and tourism industry is complicated and usually is considered as umbrella industry, since its dependence on a lot of factors and sectors which are working together, therefore every section should work together to create a better travel environment.
 The ‘Travel with Sadi ’ is a website which has been created to find the perfect solutions for the issues that travellers face through the journeys they take to create unforgettable memories. We have created our website to be a paradise where any tourist can find help and comfort no matter where they travel.
 
