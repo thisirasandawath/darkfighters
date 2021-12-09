@@ -1,0 +1,104 @@
+[03-Aug-2020 08:43:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 15:43:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 15:47:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 22
+[03-Aug-2020 16:05:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 16:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/greenli2/darkfighters.greenline.lk/Login/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 23
+[03-Aug-2020 16:05:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 16:05:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/greenli2/darkfighters.greenline.lk/Login/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 23
+[03-Aug-2020 16:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 16:05:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/greenli2/darkfighters.greenline.lk/Login/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 23
+[03-Aug-2020 16:05:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 16:05:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/greenli2/darkfighters.greenline.lk/Login/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 23
+[03-Aug-2020 16:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/greenli2/darkfighters.greenline.lk/Login/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 23
+[03-Aug-2020 16:19:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 46
+[03-Aug-2020 16:20:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 46
+[03-Aug-2020 16:23:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 46
+[03-Aug-2020 16:25:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 46
+[03-Aug-2020 16:25:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 46
+[03-Aug-2020 16:25:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 46
+[03-Aug-2020 16:26:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 46
+[03-Aug-2020 16:32:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 47
+[03-Aug-2020 16:36:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 47
+[03-Aug-2020 16:37:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 47
+[03-Aug-2020 16:42:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 47
+[03-Aug-2020 16:57:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 16:58:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 17:03:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 17:03:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 17:03:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 17:04:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 17:05:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 17:12:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 21
+[03-Aug-2020 17:43:16 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 32
+[03-Aug-2020 17:44:14 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 32
+[03-Aug-2020 17:48:57 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 32
+[03-Aug-2020 17:51:08 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 30
+[08-Aug-2020 08:11:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenli2/darkfighters.greenline.lk/Login/login.php:28) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 29
+[08-Aug-2020 08:14:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenli2/darkfighters.greenline.lk/Login/login.php:28) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 29
+[09-Aug-2020 08:35:05 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 08:35:05 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 08:35:22 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 08:35:22 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 08:36:52 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 08:36:52 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 08:38:39 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 08:38:39 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 08:40:21 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 08:40:43 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 08:40:43 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 08:42:13 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 08:42:13 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 08:45:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 08:45:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 08:45:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 08:45:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 08:46:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 08:46:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 08:46:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 08:54:25 UTC] PHP Parse error:  syntax error, unexpected 'Incorrect' (T_STRING), expecting ',' or ';' in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 38
+[09-Aug-2020 08:55:05 UTC] PHP Parse error:  syntax error, unexpected 'Incorrect' (T_STRING), expecting ',' or ';' in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 38
+[09-Aug-2020 08:58:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 49
+[09-Aug-2020 09:04:25 UTC] PHP Parse error:  syntax error, unexpected 't' (T_STRING), expecting ',' or ';' in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 36
+[09-Aug-2020 09:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenli2/darkfighters.greenline.lk/Login/login.php:36) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 37
+[09-Aug-2020 09:38:33 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 15:04:27 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 15:04:27 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 15:04:47 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 15:04:47 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 17:09:53 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 17:09:53 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 17:11:55 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 17:11:55 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 17:14:08 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 21:57:24 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 21:57:24 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 21:58:50 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 21:58:50 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 22:00:08 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 22:00:08 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[09-Aug-2020 22:10:49 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[09-Aug-2020 22:10:49 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[10-Aug-2020 00:20:07 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[10-Aug-2020 00:30:32 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[10-Aug-2020 00:31:10 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[10-Aug-2020 00:31:10 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[10-Aug-2020 04:30:16 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[10-Aug-2020 06:37:55 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[10-Aug-2020 06:37:55 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
+[10-Aug-2020 06:43:04 UTC] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 24
+[10-Aug-2020 06:43:04 UTC] PHP Warning:  Use of undefined constant Admin - assumed 'Admin' (this will throw an Error in a future version of PHP) in /home/greenli2/darkfighters.greenline.lk/Login/login.php on line 28
